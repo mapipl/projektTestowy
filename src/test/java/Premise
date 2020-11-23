@@ -1,0 +1,13 @@
+1. użytkownik ma możliwość dodania wybranej wycieczki do koszyka ze strony tej wycieczki,
+2. użytkownik ma możliwość dodania wybranej wycieczki do koszyka ze strony kategorii,
+3. użytkownik ma możliwość dodania co najmniej 10 wycieczek do koszyka (w sumie i w dowolnej kombinacji),
+4. użytkownik ma możliwość wybrania ilości wycieczek, które chce zakupić, na stronie produktu (np. dla zamówienia dla kilku osób),
+5. użytkownik ma możliwość dodania 10 różnych wycieczek do koszyka,
+6. użytkownik ma możliwość zmiany ilości wybranej wycieczki (pojedynczej pozycji) na stronie koszyka,
+7. użytkownik ma możliwość usunięcia wycieczki na stronie koszyka (całej pozycji),
+8. użytkownik jest informowany o błędach w formularzu na stronie płatności poprzez odpowiednie komunikaty,
+9. użytkownik ma możliwość zalogowania się na stronie płatności i dokonać płatności jako zalogowany użytkownik,
+10. użytkownik ma możliwość założenia konta na stronie płatności i dokonać jednocześnie płatności,
+11. użytkownik ma możliwość dokonania zakupu bez zakładania konta,
+12. użytkownik, który posiada konto może zobaczyć swoje zamówienia na swoim koncie,
+13. użytkownik po dokonaniu zamówienia może zobaczyć podsumowanie, które zawiera numer zamówienia, poprawną datę, kwotę, metodę płatności, nazwę i ilość zakupionych produktów.
